@@ -1,0 +1,19 @@
+{
+  "name": "aula-3---arquitetura-de-software",
+  "version": "1.0.0",
+  "description": "Aula 3 de Arquitetura de Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/mahhfadel/Aula-3---Arquitetura-de-Software.git"
+  },
+  "author": "Maria Clara Fadel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahhfadel/Aula-3---Arquitetura-de-Software/issues"
+  },
+  "homepage": "https://github.com/mahhfadel/Aula-3---Arquitetura-de-Software#readme"
+}
